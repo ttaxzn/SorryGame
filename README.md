@@ -1,2 +1,4 @@
 # SorryGame
-Sorry! Game
+The code in this repository is based off the game Sorry!
+
+Enjoy!
